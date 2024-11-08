@@ -1,0 +1,11 @@
+.rtl {
+    direction: rtl;
+}
+
+.skin-blue.sidebar-mini {
+    margin: 0;
+}
+
+.form-control.select2 {
+	padding: 0;
+}
